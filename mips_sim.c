@@ -1,11 +1,3 @@
-// COMP1521 20T3 Assignment 1: mips_sim -- a MIPS simulator
-// starting point code v0.1 - 13/10/20
-
-
-// writted by Daniel Zhang (z5310780)
-// COMP1521 20T3
-
-
 
 #include <stdio.h>
 #include <stdlib.h>
